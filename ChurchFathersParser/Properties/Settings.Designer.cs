@@ -25,7 +25,7 @@ namespace ChurchFathersParser.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Dev\\Church-Fathers-References")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Dev\\Church-Fathers-Bible-References")]
         public string WorkingFolder {
             get {
                 return ((string)(this["WorkingFolder"]));

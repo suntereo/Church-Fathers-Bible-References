@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="WorkingFolder" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Dev\Church-Fathers-References</Value>
+      <Value Profile="(Default)">C:\Dev\Church-Fathers-Bible-References</Value>
     </Setting>
   </Settings>
 </SettingsFile>
